@@ -1,3 +1,5 @@
 Gerador de senhas em python
 
-<img src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"
+<p>Python</p>
+ <img src="https://github.com/BrunoCostaPrado/devicon/blob/master/icons/python/python-original.svg"
+ width="30" height="30"  />
